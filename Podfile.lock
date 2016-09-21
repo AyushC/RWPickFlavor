@@ -11,18 +11,18 @@ PODS:
     - BetterBaseClasses/Categories
     - BetterBaseClasses/Constants
   - BetterBaseClasses/Views (1.14.0)
-  - MBProgressHUD (0.9.2)
+  - MBProgressHUD (1.0.0)
 
 DEPENDENCIES:
   - Alamofire (~> 2.0)
   - BetterBaseClasses (~> 1.0)
-  - MBProgressHUD (~> 0.9.0)
+  - MBProgressHUD (~> 1.0.0)
 
 SPEC CHECKSUMS:
   Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
   BetterBaseClasses: 573f6a730f91c00346c456cdedeb859a35ea508b
-  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
 
-PODFILE CHECKSUM: 878891522a5d85d32850edb5702fbbb26d50725b
+PODFILE CHECKSUM: bac8e7409ee51d289caf1b2eb6954a2f11ec8c0a
 
 COCOAPODS: 1.0.1
